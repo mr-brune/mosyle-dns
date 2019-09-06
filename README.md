@@ -1,2 +1,2 @@
 # mosyle-dns
-Mossele dns blocklist 
+mosyle dns blocklist 
